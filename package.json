@@ -1,0 +1,26 @@
+{
+  "name": "git-stream",
+  "version": "0.1.1",
+  "description": "NPM Package to interact with GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wheller/git-stream.git"
+  },
+  "keywords": [
+    "GIT",
+    "Source",
+    "Control",
+    "stream",
+    "files"
+  ],
+  "author": "Bill Heller <npm@phirephly.com> (http://phirephly.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wheller/git-stream/issues"
+  },
+  "homepage": "https://github.com/wheller/git-stream#readme"
+}
